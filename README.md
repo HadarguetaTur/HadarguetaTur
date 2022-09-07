@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hadar</h1>
+<h1 align="center">Hi 👋, I'm Hadar</h1>
 <h3 align="center">Front End/Full Stack developer</h3>
 
 - 🔭 I’m currently working on [To-do-App](https://github.com/HadarguetaTur/Todo-App_fronend)
