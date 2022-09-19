@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadar</h1>
 <h3 align="center">Front End/Full Stack developer</h3>
 
-- 🔭 I’m currently working on [To-do-App](https://github.com/HadarguetaTur/Todo-App_fronend)
+- 🔭 I’m currently working on [terapists](https://github.com/HadarguetaTur/terapists-frontend.git)
 
 - 🌱 I’m currently learning **Angular**
-
-- 👯 I’m currently working on [To-do-App](https://github.com/HadarguetaTur/To-do-app_backend)
 
 - 💬 Ask me about **Node.JS | Express.JS | MongoDB | Vue.JS | Vuex | Sass | React.JS | Redux**
 
