@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [wecare](https://github.com/HadarguetaTur/wecare-frontend.git)
 
-- 🌱 I’m currently learning **Aws**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Node.JS | Express.JS | MongoDB | Sass | React.JS | Redux**
 
